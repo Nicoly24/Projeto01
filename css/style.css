@@ -1,0 +1,24 @@
+/*minha folha de estilo*/
+.contGal{
+    width: 80%; 
+    margin-top: 0 auto;
+}
+.imagens{
+    width: 50%;
+    padding: 10px;
+    background-color: aqua;
+    border: 1px solid black;
+    display: flex;
+}
+
+.cartão img{
+    width: 100%;
+}
+.cartão p{
+    font-size: 16px;
+    color: cornsilk;
+    margin-top: 15px;
+}
+.body{
+    background-color: dimgray;
+}
